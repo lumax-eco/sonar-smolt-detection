@@ -1,4 +1,4 @@
-# Smolt Detection from Sonar Data
+# Smolt Detection from Sonar Data 🐟
 
 A Machine Learning Project for detecting and counting smolts in sonar data.
 
