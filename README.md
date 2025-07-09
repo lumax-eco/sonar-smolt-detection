@@ -4,6 +4,10 @@ A Machine Learning Project for detecting and counting smolts in sonar data.
 
 ## Setup
 
+### Package dependencies
+
+- [ffmpeg](https://www.ffmpeg.org/download.html): A complete, cross-platform solution to record, convert and stream audio and video.
+
 ### 🐍 Python dependencies
 
 Install `uv` with `pipx`:
