@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = lumax-remote
+['remote "lumax-remote"']
+    url = s3://bc-hydro-sonar-smolt-detection/dvc/
